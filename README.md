@@ -1,4 +1,4 @@
-# 🚗 Collision Avoidance System using CAN Protocol  
+# 🚗 CAN Based Collision Avoidance System
 
 ## **🔹 Overview**  
 The **Collision Avoidance System using CAN Protocol** is designed to enhance vehicular safety by detecting obstacles and preventing potential collisions. The system utilizes **ultrasonic and IR sensors** to monitor the surroundings and detect obstacles in real-time. Additionally, a **temperature sensor** is integrated to track the vehicle's temperature, ensuring stable operation and preventing overheating. 
